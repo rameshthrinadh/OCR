@@ -9,7 +9,7 @@ const cloudinary = cloudinary_import.v2;
 cloudinary.config({ 
     cloud_name: 'dsnrm77jx', 
     api_key: '431681916459295', 
-    api_secret: 'pogFleLHMFPtMm3IueFr55pehfQ' 
+    api_secret: 'cloudinary secrete key' 
   });
 
 const dUri = (req: Request) => {
